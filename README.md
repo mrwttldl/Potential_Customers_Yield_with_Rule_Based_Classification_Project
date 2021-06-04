@@ -14,7 +14,7 @@ For example; We want to determine how much a 35-year-old American woman using IO
 :white_check_mark:  Dataset Information
 
 1. **PRICE**:
-1. **SOURCE**:
-1. **SEX**:
-1. **COUNTRY**:
-1. **AGE**:
+2. **SOURCE**:
+3. **SEX**:
+4. **COUNTRY**:
+5. **AGE**:
