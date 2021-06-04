@@ -10,11 +10,17 @@ A game company wants to create new customer definitions (level-based) based on s
 For example; We want to determine how much a 35-year-old American woman using IOS can earn on average for the company.
 
 
-
 :white_check_mark:  Dataset Information
 
-1. **PRICE**:
-2. **SOURCE**:
-3. **SEX**:
-4. **COUNTRY**:
-5. **AGE**:
+Our variables are :
+
+1. **PRICE**: Customer spend amount
+
+2. **SOURCE**: The type of device the customer is connecting to
+
+3. **SEX**: Customer's gender
+
+4. **COUNTRY**: Customer's country
+
+5. **AGE**: Customer's age
+
