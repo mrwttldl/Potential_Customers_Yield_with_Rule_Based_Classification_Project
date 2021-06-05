@@ -1,6 +1,6 @@
 :moneybag:  Potential Customers Yield with Rule Based Classification Project
 
-![](https://v8p3p7q7.stackpathcdn.com/wp-content/uploads/2020/01/customers-1.jpg)
+![](https://analysisrocks.com/wp-content/uploads/2018/09/personas.jpg?crop)
 
 
  :file_folder:  Business Problem
