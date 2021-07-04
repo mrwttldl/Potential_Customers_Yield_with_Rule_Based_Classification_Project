@@ -2,7 +2,7 @@
 
 ![](https://analysisrocks.com/wp-content/uploads/2018/09/personas.jpg?crop)
 
-
+hhh
 ## :file_folder:  Business Problem
 
 A game company wants to create new customer definitions (level-based) based on some characteristics of its customers, create segments according to these new customer definitions, and estimate how much the new customers can earn on average according to these segments.
